@@ -114,7 +114,7 @@ This project addresses these challenges by:
 ### Steps to Execute:
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Tewodros-agegnehu/Amharic-Ecom-NER.git
    cd <repository-folder>
    ```
 2. Install dependencies:
